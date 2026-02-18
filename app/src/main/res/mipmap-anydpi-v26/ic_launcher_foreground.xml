@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C67.25,30 78,40.75 78,54 C78,67.25 67.25,78 54,78 C40.75,78 30,67.25 30,54 C30,40.75 40.75,30 54,30Z" />
+    <!-- Button icon - rounded rect -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M44,44 L64,44 C66.2,44 68,45.8 68,48 L68,60 C68,62.2 66.2,64 64,64 L44,64 C41.8,64 40,62.2 40,60 L40,48 C40,45.8 41.8,44 44,44Z" />
+    <!-- Arrow/remap indicator -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,51 L58,51 L55,48 L57,46 L63,52 L57,58 L55,56 L58,53 L50,53Z" />
+</vector>

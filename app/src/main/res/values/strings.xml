@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Button Mapper</string>
+    <string name="accessibility_service_description">Button Mapper uses this service to detect when physical or capacitive buttons are pressed on your device so they can be remapped to custom actions. It does not read or collect any personal information.</string>
+    <string name="device_admin_description">This permission is used to lock the screen when the \"Turn screen off\" action is selected.</string>
+</resources>

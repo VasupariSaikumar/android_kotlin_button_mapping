@@ -1,0 +1,6 @@
+# Add project specific ProGuard rules here.
+-keepclassmembers class * extends androidx.room.RoomDatabase {
+    <init>();
+}
+
+-keep class com.pragament.buttonmapper.data.model.** { *; }
